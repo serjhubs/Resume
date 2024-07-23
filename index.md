@@ -2,7 +2,7 @@
 layout: default
 ---
 <Html>
-   <img src="https://github.com/serjhubs/Resume/blob/main/_includes/SO.jpeg?raw=true"/> 
+   <img src="https://github.com/serjhubs/Resume/blob/main/_includes/SO.jpeg?raw=true" width="115" heihgt="125" /> 
 </Html>
      
 #Text can be **bold**, _italic_, or ~~strikethrough~~.
