@@ -22,8 +22,6 @@ layout: default
      
 #Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Мой сайт](./another-page.html).
-
 ### Definition lists can be used with HTML syntax.
 
 # **Skills**
@@ -129,6 +127,8 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
+
+[Мой сайт](./another-page.html).
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
