@@ -10,6 +10,9 @@ layout: default
          <br><strong>Privatwohnsitz:</strong> 70569 Stuttgart (Deutschland)
          <br><a href="https://linkedin.com" target = "_blank">LinkedIn</a>
       </td>
+       <td>
+      <br>09/04/1976
+      </td>
      </tr>
    </table>
 </Html>
