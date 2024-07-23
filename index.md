@@ -11,6 +11,7 @@ layout: default
          <br><a href="https://linkedin.com" target = "_blank">LinkedIn</a>
       </td>
       <td>
+          <br><a href="https://github.com/serjhubs/Resume/blob/main/Cert_Google.pdf" target = "_blank">Google Certificate</a>
         <br> Certificate
           <br><a href="https://www.credly.com/badges/31d821ea-8c1b-4400-b222-442f3488fbfc/public_url" target = "_blank">Google Cybersecurity</a>
          <br>Transcript
