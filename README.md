@@ -2,9 +2,9 @@
 
 <Html>
    <table><tr>
-      <td><img src= ""</td>.
-   ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+      <td><img src= ""</td>  
 </Html>
+      
 ## Usage
 
 To use the Midnight theme:
