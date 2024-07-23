@@ -4,8 +4,8 @@ layout: default
 <Html>
    <table><tr>
       <td><img src="https://github.com/serjhubs/Resume/blob/main/_includes/SO.jpeg?raw=true" width="115" heihgt="125"></td>
-      <td> Geburtsdatum: 09/04/1976
-       <br><strong>Contacts:E-Mail-Adresse: osmark@outlook.de</strong>
+      <td> Geburtsdatum: 
+       <br><strong>Contacts:E-Mail-Adresse:</strong>
         <br>777
       </td>
    </tr>
