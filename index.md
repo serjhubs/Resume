@@ -5,19 +5,15 @@ layout: default
    <table><tr>
      <td><img src="https://github.com/serjhubs/Resume/blob/main/_includes/SO.jpeg?raw=true" width="115" heihgt="125"></td>
       <td> Geburtsdatum: 09/04/1976
-       <br><strong>E-Mail-Adresse:</strong> 
-        <br><strong>Telefon:</strong>   
-         <br><strong>Privatwohnsitz:</strong> 
+       <br><strong>E-Mail-Adresse:</strong> osmark@outlook.de
+        <br><strong>Telefon:</strong> +49 178 323-87-82
+         <br><strong>Privatwohnsitz:</strong> 70569 Stuttgart (Deutschland)
          <br><a href="https://linkedin.com" target = "_blank">LinkedIn</a>
       </td>
       <td>
           <br><a href="https://www.credly.com/badges/31d821ea-8c1b-4400-b222-442f3488fbfc/public_url" target = "_blank">Google Cybersecurity</a>
           <br><a href="https://learn.microsoft.com/en-us/users/serhiiopolskyi/transcript/d9mnkakjy3g5e86" target = "_blank">Microsoft MCSE</a>
-          <br>osmark@outlook.de
-          <br>+49 178 323-87-82
-          <br>70569 Stuttgart (Deutschland)
-          <br>----
-      </td>
+       </td>
      </tr>
    </table>
 </Html>
