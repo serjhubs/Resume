@@ -7,13 +7,14 @@ layout: default
       <td> Geburtsdatum: 
        <br><strong>E-Mail-Adresse:</strong> 
         <br><strong>Telefon:</strong>   
-         <br><strong>Privatwohnsitz:</strong> 70569 Stuttgart (Deutschland)
+         <br><strong>Privatwohnsitz:</strong> 
          <br><a href="https://linkedin.com" target = "_blank">LinkedIn</a>
       </td>
        <td>
       <br>09/04/1976
           <br>osmark@outlook.de
           <br>+49 178 323-87-82
+          <br>70569 Stuttgart (Deutschland)
       </td>
      </tr>
    </table>
