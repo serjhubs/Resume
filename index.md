@@ -7,6 +7,7 @@ layout: default
       <td> Geburtsdatum: 
        <br><strong>Contacts:E-Mail-Adresse:</strong>
         <br>777
+         <br>[Мой сайт](./another-page.html).
       </td>
    </tr>
    </table>
