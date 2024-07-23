@@ -13,6 +13,7 @@ layout: default
       <td>
         <br> Certificate
           <br><a href="https://www.credly.com/badges/31d821ea-8c1b-4400-b222-442f3488fbfc/public_url" target = "_blank">Google Cybersecurity</a>
+         <br>Transcript
           <br><a href="https://learn.microsoft.com/en-us/users/serhiiopolskyi/transcript/d9mnkakjy3g5e86" target = "_blank">Microsoft MCSE</a>
        </td>
      </tr>
