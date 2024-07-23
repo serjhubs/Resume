@@ -10,7 +10,7 @@ layout: default
          <br><strong>Privatwohnsitz:</strong> 70569 Stuttgart (Deutschland)         
       </td>
       <td> 
-          <br> Google 
+          <br><strong>Google</strong>
          <br><a href="https://drive.google.com/file/d/1V3JxWsoC7uWKMBJ9DZIbsNHsLgCcs3Vd/view?usp=sharing" target = "_blank">Certificate Google Cybersecurity</a>
         <br> Credly 
           <br><a href="https://www.credly.com/badges/31d821ea-8c1b-4400-b222-442f3488fbfc/public_url" target = "_blank">Credly Cybersecurity badge</a>          
