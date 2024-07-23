@@ -9,15 +9,6 @@ layout: default
         <br>777         
       </td>
    </tr>
-      <dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-   </table>
 </Html>
      
 #Text can be **bold**, _italic_, or ~~strikethrough~~.
