@@ -7,8 +7,7 @@ layout: default
       <td> Geburtsdatum: 09/04/1976
        <br><strong>E-Mail-Adresse:</strong> osmark@outlook.de
         <br><strong>Telefon:</strong> +49 178 323-87-82
-         <br><strong>Privatwohnsitz:</strong> 70569 Stuttgart (Deutschland)
-         <br><a href="https://linkedin.com" target = "_blank">LinkedIn</a>
+         <br><strong>Privatwohnsitz:</strong> 70569 Stuttgart (Deutschland)         
       </td>
       <td> 
           <br> Google 
@@ -135,7 +134,7 @@ end
 <dd>Green</dd>
 </dl>
 
-[Мой сайт](./another-page.html).
+[Мой сайт](./https://linkedin.com" 
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
