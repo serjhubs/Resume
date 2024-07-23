@@ -8,7 +8,7 @@ layout: default
        <br><strong>E-Mail-Adresse:</strong> osmark@outlook.de
         <br><strong>Telefon:</strong> +49 178 323-87-82
          <br><strong>Privatwohnsitz:</strong> 70569 Stuttgart (Deutschland)
-         <br><style>color:"blue"<style><a href="https://linkedin.com" target = "_blank">LinkedIn</a>
+         <br><a href="https://linkedin.com" target = "_blank">LinkedIn</a>
       </td>
       <td>
         <br> Certificate
