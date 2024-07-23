@@ -15,7 +15,7 @@ layout: default
           <br>osmark@outlook.de
           <br>+49 178 323-87-82
           <br>70569 Stuttgart (Deutschland)
-          <br>
+          <br>----
       </td>
      </tr>
    </table>
