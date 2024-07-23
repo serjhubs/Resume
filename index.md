@@ -7,10 +7,7 @@ layout: default
 [Мой сайт](./another-page.html).
 
 
-<Html>
-   <table><tr>
-      <td><img src= ""</td>  
-</Html>
+
 <dt>Name</dt>
 <dd>Godzilla</dd>
 <dt>Born</dt>
