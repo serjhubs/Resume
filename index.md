@@ -10,7 +10,8 @@ layout: default
          <br><strong>Privatwohnsitz:</strong> 70569 Stuttgart (Deutschland)
          <br><a href="https://linkedin.com" target = "_blank">LinkedIn</a>
       </td>
-      <td>          
+      <td> 
+         <br><a href="https://drive.google.com/file/d/1V3JxWsoC7uWKMBJ9DZIbsNHsLgCcs3Vd/view?usp=sharing" target = "_blank">GC</a>
         <br> Certificate
           <br><a href="https://www.credly.com/badges/31d821ea-8c1b-4400-b222-442f3488fbfc/public_url" target = "_blank">Google Cybersecurity</a>
          <br>Transcript
