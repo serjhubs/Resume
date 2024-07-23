@@ -16,7 +16,7 @@ layout: default
           <br><a href="https://www.credly.com/badges/31d821ea-8c1b-4400-b222-442f3488fbfc/public_url" target = "_blank">Credly Cybersecurity badge</a>          
        </td>
        <td>
-          <br> Microsoft
+          <br><strong>Microsoft</strong>
           <br><a href="https://drive.google.com/file/d/1XaFzqDOUPJDuX-mlFcLUu3WlmLEuJ7yM/view?usp=sharing" target = "_blank">Certificate MSCE</a>
          <br>Transcript
           <br><a href="https://learn.microsoft.com/en-us/users/serhiiopolskyi/transcript/d9mnkakjy3g5e86" target = "_blank">Microsoft MCSE</a>
