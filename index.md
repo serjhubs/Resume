@@ -4,14 +4,14 @@ layout: default
 <Html>
    <table><tr>
      <td><img src="https://github.com/serjhubs/Resume/blob/main/_includes/SO.jpeg?raw=true" width="115" heihgt="125"></td>
-      <td> Geburtsdatum: 
+      <td> Geburtsdatum: 09/04/1976
        <br><strong>E-Mail-Adresse:</strong> 
         <br><strong>Telefon:</strong>   
          <br><strong>Privatwohnsitz:</strong> 
          <br><a href="https://linkedin.com" target = "_blank">LinkedIn</a>
       </td>
       <td>
-          <br>09/04/1976
+          <br><a href="https://www.credly.com/badges/31d821ea-8c1b-4400-b222-442f3488fbfc/public_url" target = "_blank">Google Cybersecurity</a>
           <br>osmark@outlook.de
           <br>+49 178 323-87-82
           <br>70569 Stuttgart (Deutschland)
