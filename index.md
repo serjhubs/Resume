@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <Html>
     <img src="https://img-cdn.pixlr.com/image-generator/history/65bb506dcb310754719cf81f/ede935de-1138-4f66-8ed7-44bd16efc709/medium.webp" width="123" height="123">
 </Html>
-**Header 2**
+# **Header 2**
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
