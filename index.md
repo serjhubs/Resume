@@ -8,7 +8,8 @@ layout: default
        <br><strong>Contacts:E-Mail-Adresse:</strong>
         <br>777         
       </td>
-   </tr>
+     </tr>
+   </table>
 </Html>
      
 #Text can be **bold**, _italic_, or ~~strikethrough~~.
