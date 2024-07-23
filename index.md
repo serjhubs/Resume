@@ -2,8 +2,7 @@
 layout: default
 ---
 <Html>
-   <table><tr>
-      <td><img src= "https://github.com/serjhubs/Resume/blob/main/_includes/SO.jpeg?raw=true"</td>  
+   <img src= "https://github.com/serjhubs/Resume/blob/main/_includes/SO.jpeg?raw=true"</td>  
 </Html>
      
 #Text can be **bold**, _italic_, or ~~strikethrough~~.
