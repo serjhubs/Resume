@@ -6,7 +6,10 @@ layout: default
       <td><img src="https://github.com/serjhubs/Resume/blob/main/_includes/SO.jpeg?raw=true" width="115" heihgt="125"></td>
       <td>born
        <br><strong>Contacts:</strong>
-         
+        <br>777
+      </td>
+   </tr>
+   </table>
 </Html>
      
 #Text can be **bold**, _italic_, or ~~strikethrough~~.
