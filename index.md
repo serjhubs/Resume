@@ -4,14 +4,15 @@ layout: default
 <Html>
    <table><tr>
      <td><img src="https://github.com/serjhubs/Resume/blob/main/_includes/SO.jpeg?raw=true" width="115" heihgt="125"></td>
-      <td> Geburtsdatum: 09/04/1976
-       <br><strong>E-Mail-Adresse:</strong> osmark@outlook.de
+      <td> Geburtsdatum: 
+       <br><strong>E-Mail-Adresse:</strong> 
         <br><strong>Telefon:</strong>  +49 178 323-87-82 
          <br><strong>Privatwohnsitz:</strong> 70569 Stuttgart (Deutschland)
          <br><a href="https://linkedin.com" target = "_blank">LinkedIn</a>
       </td>
        <td>
       <br>09/04/1976
+          <br>osmark@outlook.de
       </td>
      </tr>
    </table>
