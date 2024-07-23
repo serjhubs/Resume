@@ -5,7 +5,9 @@
 *Midnight is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/midnight), or even [use it today](#usage).*
 
 ![Thumbnail of Midnight](thumbnail.png)
-
+<Html>
+    <img src="https://img-cdn.pixlr.com/image-generator/history/65bb506dcb310754719cf81f/ede935de-1138-4f66-8ed7-44bd16efc709/medium.webp" width="123" height="123">
+</Html>
 ## Usage
 
 To use the Midnight theme:
