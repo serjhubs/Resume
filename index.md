@@ -6,8 +6,7 @@ layout: default
       <td><img src="https://github.com/serjhubs/Resume/blob/main/_includes/SO.jpeg?raw=true" width="115" heihgt="125"></td>
       <td> Geburtsdatum: 
        <br><strong>Contacts:E-Mail-Adresse:</strong>
-        <br>777
-         <br>[Мой сайт](./another-page.html).
+        <br>777         
       </td>
    </tr>
    </table>
