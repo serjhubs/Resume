@@ -4,7 +4,7 @@ layout: default
 <Html>
    <table><tr>
       <td><img src="https://github.com/serjhubs/Resume/blob/main/_includes/SO.jpeg?raw=true" width="115" heihgt="125"></td>
-      <td>born
+      <td> Geburtsdatum: 09/04/1976
        <br><strong>Contacts:</strong>
         <br>777
       </td>
