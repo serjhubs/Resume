@@ -11,12 +11,12 @@ layout: default
          <br><a href="https://linkedin.com" target = "_blank">LinkedIn</a>
       </td>
       <td> 
-          <br> Certificate Google Cybersecurity
-         <br><a href="https://drive.google.com/file/d/1V3JxWsoC7uWKMBJ9DZIbsNHsLgCcs3Vd/view?usp=sharing" target = "_blank">GC</a>
-        <br> Credly badge
-          <br><a href="https://www.credly.com/badges/31d821ea-8c1b-4400-b222-442f3488fbfc/public_url" target = "_blank">Credly Cybersecurity</a>
-          <br> Certificate MSCE
-          <br><a href="https://drive.google.com/file/d/1xgNNhviZ_rtRVmOVhLTEbD86jgRT6qSy/view?usp=sharing" target = "_blank">Credly Cybersecurity</a>
+          <br> Google 
+         <br><a href="https://drive.google.com/file/d/1V3JxWsoC7uWKMBJ9DZIbsNHsLgCcs3Vd/view?usp=sharing" target = "_blank">Certificate Google Cybersecurity</a>
+        <br> Credly 
+          <br><a href="https://www.credly.com/badges/31d821ea-8c1b-4400-b222-442f3488fbfc/public_url" target = "_blank">Credly Cybersecurity badge</a>
+          <br> Microsoft
+          <br><a href="https://drive.google.com/file/d/1xgNNhviZ_rtRVmOVhLTEbD86jgRT6qSy/view?usp=sharing" target = "_blank">Certificate MSCE</a>
          <br>Transcript
           <br><a href="https://learn.microsoft.com/en-us/users/serhiiopolskyi/transcript/d9mnkakjy3g5e86" target = "_blank">Microsoft MCSE</a>
        </td>
