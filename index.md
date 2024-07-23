@@ -3,13 +3,20 @@ layout: default
 ---
 <Html>
    <table><tr>
-      <dt>Name</dt>
-      <td><img src="https://github.com/serjhubs/Resume/blob/main/_includes/SO.jpeg?raw=true" width="115" heihgt="125"></td>
+     <td><img src="https://github.com/serjhubs/Resume/blob/main/_includes/SO.jpeg?raw=true" width="115" heihgt="125"></td>
       <td> Geburtsdatum: 
        <br><strong>Contacts:E-Mail-Adresse:</strong>
         <br>777         
       </td>
    </tr>
+      <dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
    </table>
 </Html>
      
