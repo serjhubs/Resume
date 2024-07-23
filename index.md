@@ -5,13 +5,13 @@ layout: default
    <table><tr>
       <td><img src="https://github.com/serjhubs/Resume/blob/main/_includes/SO.jpeg?raw=true" width="115" heihgt="125"></td>
       <dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+      <dd>Godzilla</dd>
+      <dt>Born</dt>
+      <dd>1952</dd>
+      <dt>Birthplace</dt>
+      <dd>Japan</dd>
+      <dt>Color</dt>
+      <dd>Green</dd>
 </Html>
      
 #Text can be **bold**, _italic_, or ~~strikethrough~~.
