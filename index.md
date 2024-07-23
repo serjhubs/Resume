@@ -16,8 +16,7 @@ layout: default
 <dd>Japan</dd>
 <dt>Color</dt>
 <dd>Green</dd>
-</dl>
-</Html>
+
 
 ### Definition lists can be used with HTML syntax.
 
