@@ -135,6 +135,7 @@ end
 </dl>
 
 [Resume](./[https://linkedin.com](https://europa.eu/europass/eportfolio/screen/share/documents/6a1e220e-5a58-43e6-b02e-f8bca989e52d?lang=en)
+Resume (https://linkedin.com](https://europa.eu/europass/eportfolio/screen/share/documents/6a1e220e-5a58-43e6-b02e-f8bca989e52d?lang=en)
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
