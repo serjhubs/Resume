@@ -26,7 +26,7 @@ layout: default
    </table>
 </Html>  
 
-# **Skills**
+# **Über mich**
 
 Hallo, mein Name ist Sergрii Opolskyi. Ich bin Systemadministrator und interessiere mich auch für Netzwerk- und Cloud-Sicherheit. Ich habe einen Bachelor-Abschluss in Computersystemen und Netzwerken. Es gibt auch MCSE- und Google Cybersecurity-Zertifikate. In letzter Zeit interessiere ich mich mehr für Cybersicherheit; dieses Tätigkeitsfeld hat mich schon immer sehr interessiert. Weitere Details zu meiner Person finden Sie in meinem Lebenslauf.
 
