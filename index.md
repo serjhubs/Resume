@@ -66,12 +66,7 @@ Hallo, mein Name ist Sergрii Opolskyi. Ich bin Systemadministrator und interess
   
       #Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+
 
 #### Header 4
 
@@ -137,25 +132,3 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-[Resume](./[https://linkedin.com](https://europa.eu/europass/eportfolio/screen/share/documents/6a1e220e-5a58-43e6-b02e-f8bca989e52d?lang=en)
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
