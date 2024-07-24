@@ -33,11 +33,6 @@ Hallo, mein Name ist Sergрii Opolskyi. Ich bin Systemadministrator und interess
 >
 > **[Lebenslauf](https://europa.eu/europass/eportfolio/screen/share/documents/6a1e220e-5a58-43e6-b02e-f8bca989e52d?lang=en)**
 >
-
-![Octocat](https://github.com/serjhubs/Resume/blob/main/google-cybersecurity-certificate_120.png?raw=true) ![Octocat](https://github.com/serjhubs/Resume/blob/main/MCSE(cmyk).png?raw=true)
-
-
-
 ### FÄHIGKEITEN (Skills)
 #### Hard skills
 
@@ -62,6 +57,9 @@ Hallo, mein Name ist Sergрii Opolskyi. Ich bin Systemadministrator und interess
 *   Sicherer Umgang mit Linux-Software
 *   Kompetenter Problemlöser, der in der Lage ist, Herausforderungen schnell zu erkennen und effektive Lösungen
     zu finden
+    ![Octocat](https://github.com/serjhubs/Resume/blob/main/google-cybersecurity-certificate_120.png?raw=true)
+
+    ![Octocat](https://github.com/serjhubs/Resume/blob/main/MCSE(cmyk).png?raw=true)
 
 
 
