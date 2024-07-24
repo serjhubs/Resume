@@ -60,7 +60,7 @@ Hallo, mein Name ist Sergрii Opolskyi. Ich bin Systemadministrator und interess
 *   Kompetenter Problemlöser, der in der Lage ist, Herausforderungen schnell zu erkennen und effektive Lösungen
     zu finden
 
-![Octocat](https://github.com/serjhubs/Resume/blob/main/google-cybersecurity-certificate.png?raw=true width="115" heihgt="125")
+![Octocat](https://github.com/serjhubs/Resume/blob/main/google-cybersecurity-certificate_120.png?raw=true)
 
    
   
