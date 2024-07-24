@@ -30,9 +30,9 @@ layout: default
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Resume
 >
-> Resume [Lebenslauf](https://europa.eu/europass/eportfolio/screen/share/documents/6a1e220e-5a58-43e6-b02e-f8bca989e52d?lang=en)
+>  ### ** [Lebenslauf](https://europa.eu/europass/eportfolio/screen/share/documents/6a1e220e-5a58-43e6-b02e-f8bca989e52d?lang=en) **
 >
 
 
