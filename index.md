@@ -28,7 +28,7 @@ layout: default
 
 # **Skills**
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hallo, mein Name ist Sergрii Opolskyi. Ich bin Systemadministrator und interessiere mich auch für Netzwerk- und Cloud-Sicherheit. Ich habe einen Bachelor-Abschluss in Computersystemen und Netzwerken. Es gibt auch MCSE- und Google Cybersecurity-Zertifikate. In letzter Zeit interessiere ich mich mehr für Cybersicherheit; dieses Tätigkeitsfeld hat mich schon immer sehr interessiert. Weitere Details zu meiner Person finden Sie in meinem Lebenslauf.
 
 ## Resume
 >
