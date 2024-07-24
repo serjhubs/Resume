@@ -39,7 +39,7 @@ Hallo, mein Name ist Sergрii Opolskyi. Ich bin Systemadministrator und interess
 #### Hard skills
 
 *   Programmierung (SQL, Python).
-*   Linux line-command (CLI).*   
+*   Linux line-command (CLI).  
 *   Netzwerksicherheit
 *   Sicherheitsrahmen, Kontrollen, Designprinzipien (Security frameworks, controls, design prinsipels)
 *   Kenntnisse verschiedener Softwarelösungen: dazu gehören Antivirenprogramme, Betriebssysteme und Firewalls
