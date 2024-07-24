@@ -123,7 +123,7 @@ Hallo, mein Name ist Sergрii Opolskyi. Ich bin Systemadministrator und interess
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat]([https://github.githubassets.com/images/icons/emoji/octocat.png](https://github.com/serjhubs/Resume/blob/main/google-cybersecurity-certificate.png?raw=true)
 
 ### Large image
 
