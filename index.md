@@ -1,7 +1,29 @@
 ---
 layout: default
 ---
-
+<Html>
+   <table><tr>
+     <td><img src="https://github.com/serjhubs/Resume/blob/main/_includes/SO.jpeg?raw=true" width="115" heihgt="125"></td>
+      <td> Geburtsdatum: 09/04/1976
+       <br><strong>E-Mail-Adresse:</strong> osmark@outlook.de
+        <br><strong>Telefon:</strong> +49 178 323-87-82
+         <br><strong>Privatwohnsitz:</strong> 70569 Stuttgart (Deutschland)
+      </td>
+      <td>
+          <br><strong>Google</strong>
+         <br><a href="https://drive.google.com/file/d/1V3JxWsoC7uWKMBJ9DZIbsNHsLgCcs3Vd/view?usp=sharing" target = "_blank">Certificate Google Cybersecurity</a>
+        <br> Credly
+          <br><a href="https://www.credly.com/badges/31d821ea-8c1b-4400-b222-442f3488fbfc/public_url" target = "_blank">Credly Cybersecurity badge</a>
+       </td>
+       <td>
+          <br><strong>Microsoft</strong>
+          <br><a href="https://drive.google.com/file/d/1XaFzqDOUPJDuX-mlFcLUu3WlmLEuJ7yM/view?usp=sharing" target = "_blank">Certificate MSCE</a>
+         <br>Transcript
+          <br><a href="https://learn.microsoft.com/en-us/users/serhiiopolskyi/transcript/d9mnkakjy3g5e86" target = "_blank">Microsoft MCSE</a>
+      </td>
+    </tr>
+   </table>
+</Html>
 
 # **Über mich**
 
