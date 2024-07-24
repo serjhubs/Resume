@@ -26,9 +26,9 @@ layout: default
    </table>
 </Html>
      
-#Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-### Definition lists can be used with HTML syntax.
+
+
 
 # **Skills**
 
@@ -36,19 +36,13 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Header 2
 
-> # **TEST**
+> Resume [Lebenslauf](https://europa.eu/europass/eportfolio/screen/share/documents/6a1e220e-5a58-43e6-b02e-f8bca989e52d?lang=en)
+
 
 
 
 ### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+#Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ```ruby
 # Ruby code with syntax highlighting
@@ -135,7 +129,6 @@ end
 </dl>
 
 [Resume](./[https://linkedin.com](https://europa.eu/europass/eportfolio/screen/share/documents/6a1e220e-5a58-43e6-b02e-f8bca989e52d?lang=en)
-Resume [Lebenslauf](https://europa.eu/europass/eportfolio/screen/share/documents/6a1e220e-5a58-43e6-b02e-f8bca989e52d?lang=en)
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
