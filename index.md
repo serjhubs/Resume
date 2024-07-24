@@ -62,6 +62,8 @@ Hallo, mein Name ist Sergрii Opolskyi. Ich bin Systemadministrator und interess
     zu finden
 
 ![Octocat](https://github.com/serjhubs/Resume/blob/main/google-cybersecurity-certificate_120.png?raw=true)
+![Octocat](https://github.com/serjhubs/Resume/blob/main/MCSE(cmyk).png?raw=true)
+
 
    
   
