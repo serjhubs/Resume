@@ -20,9 +20,7 @@ layout: default
           <br><a href="https://drive.google.com/file/d/1XaFzqDOUPJDuX-mlFcLUu3WlmLEuJ7yM/view?usp=sharing" target = "_blank">Certificate MSCE</a>
          <br>Transcript
           <br><a href="https://learn.microsoft.com/en-us/users/serhiiopolskyi/transcript/d9mnkakjy3g5e86" target = "_blank">Microsoft MCSE</a>
-      </td>
-      
-     </tr>
+      </td>       
    </table>
 </Html>  
 
