@@ -37,8 +37,8 @@ Hallo, mein Name ist Serhii Opolskyi. Ich bin Systemadministrator und interessie
 ### FÄHIGKEITEN (Skills)
 #### Hard skills
 
-*   Programmierung (SQL, Python).
-*   Linux line-command (CLI).  
+*   Programmierung (SQL, Python)
+*   Linux line-command (CLI)  
 *   Netzwerksicherheit
 *   Sicherheitsrahmen, Kontrollen, Designprinzipien (Security frameworks, controls, design prinsipels)
 *   Kenntnisse verschiedener Softwarelösungen: dazu gehören Antivirenprogramme, Betriebssysteme und Firewalls
@@ -52,7 +52,7 @@ Hallo, mein Name ist Serhii Opolskyi. Ich bin Systemadministrator und interessie
 
 #### Soft skills
 
-*   Teamgeist, Motivation, Einsatzbereitschaft, Eigeninitiative, Zuverlässigkeit und Lernbereitschaft.
+*   Teamgeist, Motivation, Einsatzbereitschaft, Eigeninitiative, Zuverlässigkeit und Lernbereitschaft
 *   Starke Kommunikations- und Organisationsfähigkeiten, aktuelle Branchenkenntnisse, aktuelle Kenntnisse der
     Informationssicherheitsprinzipien, Linux-Vertrautheit
 *   Sicherer Umgang mit Linux-Software
