@@ -37,7 +37,14 @@ Hallo, mein Name ist Sergрii Opolskyi. Ich bin Systemadministrator und interess
 
 
 
-### Header 3
+### FÄHIGKEITEN (Skills)
+#### Hard skills
+
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
 #Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ```ruby
