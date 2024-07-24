@@ -66,11 +66,9 @@ Hallo, mein Name ist Sergрii Opolskyi. Ich bin Systemadministrator und interess
 
 <Html>
    <table><tr>
-     <td><img src="(https://github.com/serjhubs/Resume/blob/main/google-cybersecurity-certificate_120.png?raw=true)" 
-   </td>
-      <td><td><img src="(https://github.com/serjhubs/Resume/blob/main/MCSE(cmyk).png?raw=true)"           
-   </td>       
-      </tr>
+     <td><img src="(https://github.com/serjhubs/Resume/blob/main/google-cybersecurity-certificate_120.png?raw=true)" </td> 
+      <td><td><img src="(https://github.com/serjhubs/Resume/blob/main/MCSE(cmyk).png?raw=true)" </td>          
+               </tr>
    </table>
 </Html>
 
