@@ -31,7 +31,7 @@ Hallo, mein Name ist Serhii Opolskyi. Ich bin Systemadministrator und interessie
 
 ## Resume
 >
-> **[Lebenslauf](https://europa.eu/europass/eportfolio/screen/share/56bfdd51-7387-4bab-9628-ac92dcb63d89?lang=en)**
+> **[Lebenslauf](https://drive.google.com/file/d/1ERh3EvQIiEVouV4HTXbrN1xQOhpxT05y/view?usp=sharing)**
 >
 
 ### FÄHIGKEITEN (Skills)
