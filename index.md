@@ -31,7 +31,7 @@ Hallo, mein Name ist Serhii Opolskyi. Ich bin Systemadministrator/Ingenieur und 
 
 ## Resume
 >
-> **[Lebenslauf](https://drive.google.com/file/d/1MZCtlFARwkBDrcKtS_--V6LOLRUEDMM4/view?usp=drive_link)**
+> **[Lebenslauf](https://drive.google.com/file/d/12_4mWpai_5CnCw-GIjhcOfOr_N-O8Np7/view?usp=sharing)**
 >
 
 ### FÄHIGKEITEN (Skills)
