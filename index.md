@@ -27,7 +27,7 @@ layout: default
 
 # Über mich
 
-Hallo, mein Name ist Serhii Opolskyi. Ich bin Systemadministrator und interessiere mich auch für Netzwerk- und Cloud-Sicherheit. Ich habe einen [Bachelor-Abschluss](https://drive.google.com/file/d/1JFVs3E5icQBOobRRqk2d4Dcjjv0MoSSo/view?usp=sharing) in Computersystemen und Netzwerken. Es gibt auch [MCSE](https://drive.google.com/file/d/1_MBMY01oDYAAGzxl1yUzZwO7PQMuP292/view?usp=sharing) - und [Google Cybersecurity-Zertifikate](https://www.coursera.org/account/accomplishments/professional-cert/2D5Z6MH5Q7NM). In letzter Zeit interessiere ich mich mehr für Cybersicherheit; dieses Tätigkeitsfeld hat mich schon immer sehr interessiert. Weitere Details zu meiner Person finden Sie in meinem Lebenslauf.
+Hallo, mein Name ist Serhii Opolskyi. Ich bin Systemadministrator/Ingenieur und verwalte und schütze Server (Windows und Linux). Seit Kurzem widme ich mich mehr der Cybersicherheit, da mich dieser Bereich schon immer interessiert hat. . Ich habe einen [Bachelor-Abschluss](https://drive.google.com/file/d/1JFVs3E5icQBOobRRqk2d4Dcjjv0MoSSo/view?usp=sharing) in Computersystemen und Netzwerken, und verfüge über  [MCSE](https://drive.google.com/file/d/1_MBMY01oDYAAGzxl1yUzZwO7PQMuP292/view?usp=sharing) - und [Google Cybersecurity-Zertifizierungen](https://www.coursera.org/account/accomplishments/professional-cert/2D5Z6MH5Q7NM). Genauere Informationen zu meiner Person finden Sie in meinem Lebenslauf.
 
 ## Resume
 >
