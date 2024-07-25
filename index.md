@@ -3,7 +3,7 @@ layout: default
 ---
 <Html>
    <table><tr>
-     <td><img src="https://github.com/serjhubs/Resume/blob/main/Serge_125px.jpg?raw=true" width="125" heihgt="135"></td>
+     <td><img src="https://github.com/serjhubs/Resume/blob/main/Serj_225.jpg?raw=true" width="125" heihgt="135"></td>
       <td> Geburtsdatum: 09/04/1976
        <br><strong>E-Mail-Adresse:</strong> osmark@outlook.de
         <br><strong>Telefon:</strong> +49 178 323-87-82
