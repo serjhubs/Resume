@@ -8,6 +8,7 @@ layout: default
        <br><strong>E-Mail-Adresse:</strong> s.opolskyi@gmx.de
         <br><strong>Telefon:</strong> +49 178 323-87-82
          <br><strong>Privatwohnsitz:</strong> 70569 Stuttgart (Deutschland)
+          <br><a href="https://www.linkedin.com/in/serhii-opolskyi-a7896931b/" target = "_blank">LinkedIn</a>
       </td>
       <td>
           <br><strong>Google</strong>
