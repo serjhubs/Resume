@@ -64,28 +64,4 @@ Hallo, mein Name ist Serhii Opolskyi. Ich bin Systemadministrator/Ingenieur und 
 
     ![Octocat](https://github.com/serjhubs/Resume/blob/main/MCSE2.png?raw=true)
 
-
-
-
-
-
-
-   
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       
