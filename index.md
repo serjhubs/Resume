@@ -55,9 +55,9 @@ Hallo, mein Name ist Serhii Opolskyi. Ich bin Systemadministrator/Ingenieur und 
 
 *   Ich arbeite gerne im Team, bin hochmotiviert und zeige stets vollen Einsatz. Dabei übernehme ich
 gerne Eigeninitiative und bin ein zuverlässiger Partner.
-*   Als schneller Lerner bin ich in der Lage, mich zügig in neue Technologien einzuarbeiten und komplexe
-Problemstellungen selbstständig zu lösen. Durch gezieltes Studium von Fachliteratur und aktives
-Networking in der IT-Community bleibe ich stets am Puls der Zeit.
+*   Als schneller Lehnender bin ich in der Lage, mich zügig in neue Technologien einzuarbeiten und
+komplexe Problemstellungen selbstständig zu lösen. Durch gezieltes Studium von Fachliteratur und
+aktives Networking in der IT-Community bleibe ich stets auf dem neuesten Stand..
 *   Starke Kommunikations- und Organisationsfähigkeiten, aktuelle Branchenkenntnisse, aktuelle
 Kenntnisse der Informationssicherheitsprinzipien.
     
